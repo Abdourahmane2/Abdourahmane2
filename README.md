@@ -1,4 +1,3 @@
-<!-- Banner animé Dark Mode -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E3A8A&height=180&section=header&text=👨‍💻%20Abdourahmane%20Timera&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 <p align="center">
@@ -71,10 +70,4 @@
 
 ---
 
-## 🐍 Snake Contributions
 
-![Snake animation](https://github.com/Abdourahmane2/Abdourahmane2/blob/output/github-contribution-grid-snake.svg)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0D1117&height=120&section=footer)
